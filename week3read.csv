@@ -1,0 +1,47 @@
+Timestamp,Value,Type,X,Y,Z
+12:14:34 PM.127,"Acceleration in X: 0.31, Y: -0.59, Z: -0.72
+",received,0.31,-0.59,-0.72
+12:14:34 PM.150,"Acceleration in X: 0.34, Y: -0.59, Z: -0.73
+",received,0.34,-0.59,-0.73
+12:14:34 PM.192,"Acceleration in X: 0.34, Y: -0.58, Z: -0.74
+",received,0.34,-0.58,-0.74
+12:14:34 PM.195,"Acceleration in X: 0.35, Y: -0.58, Z: -0.74
+",received,0.35,-0.58,-0.74
+12:14:34 PM.209,"Acceleration in X: 0.35, Y: -0.58, Z: -0.73
+",received,0.35,-0.58,-0.73
+12:14:34 PM.240,"Acceleration in X: 0.35, Y: -0.58, Z: -0.72
+",received,0.35,-0.58,-0.72
+12:14:34 PM.279,"Acceleration in X: 0.34, Y: -0.60, Z: -0.73
+",received,0.34,-0.6,-0.73
+12:14:34 PM.297,"Acceleration in X: 0.35, Y: -0.59, Z: -0.75
+",received,0.35,-0.59,-0.75
+12:14:34 PM.317,"Acceleration in X: 0.35, Y: -0.57, Z: -0.74
+",received,0.35,-0.57,-0.74
+12:14:34 PM.346,"Acceleration in X: 0.36, Y: -0.56, Z: -0.72
+",received,0.36,-0.56,-0.72
+12:14:34 PM.363,"Acceleration in X: 0.36, Y: -0.57, Z: -0.71
+",received,0.36,-0.57,-0.71
+12:14:34 PM.394,"Acceleration in X: 0.36, Y: -0.59, Z: -0.71
+",received,0.36,-0.59,-0.71
+12:14:34 PM.409,"Acceleration in X: 0.35, Y: -0.60, Z: -0.71
+",received,0.35,-0.6,-0.71
+12:14:34 PM.439,"Acceleration in X: 0.34, Y: -0.59, Z: -0.72
+",received,0.34,-0.59,-0.72
+12:14:34 PM.471,"Acceleration in X: 0.34, Y: -0.60, Z: -0.73
+",received,0.34,-0.6,-0.73
+12:14:34 PM.487,"Acceleration in X: 0.34, Y: -0.60, Z: -0.73
+",received,0.34,-0.6,-0.73
+12:14:34 PM.517,"Acceleration in X: 0.33, Y: -0.60, Z: -0.73
+",received,0.33,-0.6,-0.73
+12:14:34 PM.533,"Acceleration in X: 0.34, Y: -0.59, Z: -0.73
+",received,0.34,-0.59,-0.73
+12:14:34 PM.564,"Acceleration in X: 0.35, Y: -0.58, Z: -0.72
+",received,0.35,-0.58,-0.72
+12:14:34 PM.579,"Acceleration in X: 0.35, Y: -0.58, Z: -0.71
+",received,0.35,-0.58,-0.71
+12:14:34 PM.610,"Acceleration in X: 0.35, Y: -0.59, Z: -0.73
+",received,0.35,-0.59,-0.73
+12:14:34 PM.625,"Acceleration in X: 0.36, Y: -0.58, Z: -0.74
+",received,0.36,-0.58,-0.74
+12:14:34 PM.656,"Acceleration in X: 0.36, Y: -0.58, Z: -0.73
+",received,0.36,-0.58,-0.73
